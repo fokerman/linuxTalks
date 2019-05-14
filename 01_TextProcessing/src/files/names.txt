@@ -1,0 +1,51 @@
+Name: Juan
+Action: run
+Length: 72
+
+Name: Pedro
+Action: jump
+Number: 42
+
+Name: Rodrigo
+Action: jump
+Number: 42
+
+Name: Matias
+Action: jump
+Number: 31
+
+Name: Ruben
+Action: run
+Length: 31
+
+Name: Maria
+Action: jump
+Number: 31
+
+Name: Lucas
+Action: jump
+Number: 42
+
+Name: Laura
+Action: run
+Length: 33
+
+Name: Paula
+Action: stop
+Number: 42
+
+Name: Laura
+Action: jump
+Number: 42
+
+Name: Rodrigo
+Action: run
+Length: 33
+
+Name: Matias
+Action: jump
+Number: 43
+
+Name: Laura
+Action: jump
+Number: 54

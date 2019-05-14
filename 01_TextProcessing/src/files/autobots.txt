@@ -1,0 +1,6 @@
+Name.Alternate modes.Rank.Function
+Optimus Prime.Peterbilt flat-nosed.10.Autobot Leader
+Bumblebee.Volkswagen Beetle.7.Espionage
+Trailbreaker.1986 Toyota Hilux 4x4 Camper.7.Defensive Strategist
+Windcharger.Pontiac Fire Bird Trans Am.5.Warrior
+Outback.Land Rover.4.Administrative Assistant
