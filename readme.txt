@@ -5,7 +5,7 @@
 -- La presentación se puede compilar ejecutando el comando 'make'
 -- La carpeta 'src' contiene ejemplos de archivos para procesar texto
 
-02 -Sistema linux y redes
+02 - Sistema linux y redes
 
 -- TODO
 
